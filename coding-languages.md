@@ -6,3 +6,7 @@
 6. php
 7. html
 8. css
+
+- Java,Python
+- js,C/C++,C#
+- go,ruby
